@@ -3,7 +3,7 @@
 Create a project using this example:
 
 ```bash
-npx thirdweb create --template vite-javascript-starter
+npx third web create --template vite-javascript-starter
 ```
 
 You can start editing the page by modifying `src/main.jsx`. The page auto-updates as you edit the file.
@@ -22,7 +22,7 @@ yarn deploy
 
 ## Learn More
 
-To learn more about thirdweb, Vite and React, take a look at the following resources:
+To learn more about the third web, Vite, and React, take a look at the following resources:
 
 - [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
 - [thirdweb JavaScript Documentation](https://docs.thirdweb.com/react) - learn about our JavaScript/TypeScript SDK.
@@ -30,8 +30,8 @@ To learn more about thirdweb, Vite and React, take a look at the following resou
 - [Vite Documentation](https://vitejs.dev/guide/) - learn about Vite features.
 - [React documentation](https://reactjs.org/) - learn React.
 
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
+You can check out [the third web GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
 
 ## Join our Discord!
 
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+For any questions or suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
